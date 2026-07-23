@@ -1,0 +1,4 @@
+## Random Unique Generator Tests
+
+rug_0001.t:: Does `rug` create a full list of random integers between 1 and 5*n.
+run_0002.t:: 
